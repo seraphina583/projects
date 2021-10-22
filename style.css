@@ -1,0 +1,16 @@
+.bg-light {
+  background-color: rgb(203, 23, 248) !important;
+}
+body {
+  background-color: rgb(25, 193, 235) !important;
+  color: rgb(35, 39, 243);
+  font-family: "Itim", cursive;
+}
+.btn-info {
+  background-color: #8414ec !important;
+  padding: 10px 20px;
+  font-size: 30px !important;
+}
+p {
+  font-size: 25px !important ;
+}
